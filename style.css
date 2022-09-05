@@ -290,7 +290,7 @@ a {
 }
 .f-div-4 {
     text-align: justify;
-    /* width: 300px; */
+    line-height: 2px;
 }
 .f-div-4-1 {
     display: flex;
@@ -301,6 +301,12 @@ a {
 }
 footer{
     margin-top: 100px;
+}
+.foot-margin {
+    margin-top: 40px;
+}
+.contact-margin {
+    margin-top: 35px;
 }
 #hr1 {
     margin-bottom: 50px;
